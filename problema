@@ -1,0 +1,10 @@
+Desarrollar un modulo de validación de contraseñas, el cual tendrá  las siguientes características:
+  1) El usuario ingresa la contraseña por terminal.
+  2) Se debe confirmar la contraseña(El usuario debe ingresar de nuevo la contraseña)
+  3) El modulo debe validar lo siguiente:
+    a) Las contraseñas ingresadas deben coincidir
+    b) La contraseña debe tener minimo 8 caracteres, maximo 40
+    c) La contraseña debe tener al menos una letra mayusculas
+    d) La contraseña debe tener al menos una letra minúscula
+    e) La contraseña debe tener al menos un numero
+    f) La contraseña no debe contener espacios
